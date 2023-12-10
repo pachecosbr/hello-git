@@ -1,1 +1,1 @@
-console.log("hola mi pirmer repe de git actualizado")
+console.log("hola esto esta actualizado para gitHub")
